@@ -49,8 +49,8 @@ Props are set when a component is rendered and can change if the parent componen
 
 
 ## 6. Example:
-// Parent component
 ```javascript
+// Parent component
 function Parent() {
   const [message, setMessage] = useState("Hello from Parent");
 
