@@ -46,7 +46,6 @@ function MyComponent() {
 ```
 _You update the state by calling the setCount() function._
 
-![alt text]("C:\Users\Harshal\Desktop\React Notes\Screenshot 2024-11-21 115030.png")
 
 __Summary__
 

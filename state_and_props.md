@@ -67,7 +67,6 @@ __In this example:__
 Props (message) are passed from the Parent component to the Child component.
 State (message) is managed inside the Parent component.
 
-![alt text]("C:\Users\Harshal\Pictures\Saved Pictures\Screenshot 2024-11-20 173706.png")
 
 
 __When to Use:__
