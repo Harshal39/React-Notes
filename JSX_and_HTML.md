@@ -77,3 +77,5 @@ __HTML:__
 <svg>
   <use xlink:href="#icon"></use>
 </svg>
+
+These distinctions make JSX powerful and dynamic, enabling the embedding of JavaScript logic directly into the markup.
